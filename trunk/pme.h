@@ -163,7 +163,12 @@ protected:
 };
 
 /**  \mainpage  PME (PCRE Made Easy) - C++ PCRE Wrapper Library 
- 
+
+  \htmlonly
+<a href="http://developer.berlios.de">
+<img src="http://developer.berlios.de/bslogo.php?group_id=0" width="124" height="32" border="0" alt="BerliOS Logo" /></a>
+\endhtmlonly
+
      \section sec_intr Introduction.
  
   PME is a C++ wrapper around the PCRE library. It has been designed to emulate Perl regular expression in both syntax and behaviour. PME requires PCRE version 4.3+ be installed.
@@ -204,7 +209,14 @@ The API should remain constant.
 - \subpage page_readme @PME documentation (readme)   
 
 
-\section sec_downlowd Download
+\section sec_downlowd Downloada
+
+\subsection svn_repos SVN repository
+  - trunk:      https://svn.berlios.de/svnroot/repos/pme/trunk  
+
+
+\subsection tarball Tarballs
+
   
   - <a href="http://pre.adrien.mageos.com">PME 1.0.5</a> - updated documentation - first revision in Berlios
   - <a href="http://xaxxon.slackworks.com/pme/pme-1.0.4.tar.gz">PME 1.0.4</a> - visual studio 6 support
