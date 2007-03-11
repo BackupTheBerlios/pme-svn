@@ -178,7 +178,7 @@ The developement of PME was halted in 2004 (source: http://xaxxon.slackworks.com
 I decided to maintain PME, so I put it 
 on berlios (the author of PME was not reachable).
 
-- News: 1.0.5: first new revision based on Berlios, with enhanced documentation.
+- News: 2.0.0: first new revision based on Berlios, with enhanced documentation.
 - News: 1.0.3 fixes a few bugs. It is VERY highly recommended you upgrade to it. 
     
  
@@ -199,7 +199,7 @@ It performs technically unneccessary string copies to facilitate simple backrefe
 
 \section sec_status Current Status
 
-The current version of PME is <tt> 1.0.5</tt>. Same as <tt> 1.0.4</tt> but with enhanced documentation
+The current version of PME is <tt> 2.0.0</tt>. Same as <tt> 1.0.4</tt> but with enhanced documentation
 and a new member method PME::GetLastGlobalPosition()     
 
 The API should remain constant.
@@ -218,7 +218,7 @@ The API should remain constant.
 \subsection tarball Tarballs
 
   
-  - <a href="http://pre.adrien.mageos.com">PME 1.0.5</a> - updated documentation - first revision in Berlios
+  - <a href="http://pme.berlios.de/pme-2.0.0.tar.gz">PME 2.0.0</a> - updated documentation - first revision in Berlios
   - <a href="http://xaxxon.slackworks.com/pme/pme-1.0.4.tar.gz">PME 1.0.4</a> - visual studio 6 support
   - <a href="http://xaxxon.slackworks.com/pme/pme-1.0.3.tar.gz">PME 1.0.3</a>
   - <a href="http://xaxxon.slackworks.com/pme/pme-0.9.1.tar.gz">PME 0.9.1</a>
